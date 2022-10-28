@@ -1,2 +1,16 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Hello Wrold
 I am try to know
+||||||| Stash base
+=======
+A
+B
+C
+>>>>>>> Stashed changes
+||||||| Stash base
+=======
+A
+B
+C
+>>>>>>> Stashed changes
